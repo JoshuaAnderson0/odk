@@ -1,0 +1,7 @@
+{
+  "name": "odk",
+  "version": "0.0.0",
+  "displayName": "ODK",
+  "description": "Odyssey Development Kit",
+  "unity": "2022.1"
+}
